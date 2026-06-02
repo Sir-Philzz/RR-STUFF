@@ -1,4 +1,4 @@
-# Rec Room Shutdown Project
+# Rec Room Shutdown
 
 ## Disclaimer
 
